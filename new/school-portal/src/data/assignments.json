@@ -1,0 +1,97 @@
+[
+  {
+    "id": "as-1",
+    "title": "Data Structures — Linked List Problems",
+    "subject": "Data Structures",
+    "section": "A",
+    "branch": "CSE",
+    "description": "Solve all 10 linked-list problems (insertion, deletion, reversal). Show complete working and submit as a single PDF.",
+    "fileName": "linked-list-problems.pdf",
+    "dueDate": "2026-10-25",
+    "uploadedAt": "2026-10-10",
+    "uploadedBy": "Admin",
+    "submissions": [
+      {
+        "studentRoll": "1001",
+        "fileName": "aarav_linked_list.pdf",
+        "submittedAt": "2026-10-14"
+      },
+      {
+        "studentRoll": "1003",
+        "fileName": "rohan_linked_list.pdf",
+        "submittedAt": "2026-10-15"
+      }
+    ]
+  },
+  {
+    "id": "as-2",
+    "title": "DBMS — ER Diagram Design",
+    "subject": "DBMS",
+    "section": "A",
+    "branch": "CSE",
+    "description": "Design an ER diagram for a college management system along with a 2-page write-up. Upload the PDF of your report.",
+    "fileName": "er-diagram-report.pdf",
+    "dueDate": "2026-10-28",
+    "uploadedAt": "2026-10-12",
+    "uploadedBy": "Admin",
+    "submissions": [
+      {
+        "studentRoll": "2400321540187",
+        "fileName": "siddharth_er_diagram.pdf",
+        "submittedAt": "2026-10-18"
+      }
+    ]
+  },
+  {
+    "id": "as-3",
+    "title": "Operating Systems — Process Scheduling Notes",
+    "subject": "Operating Systems",
+    "section": "All",
+    "branch": "CSE",
+    "description": "Write notes on FCFS, SJF and Round Robin scheduling with one worked example for each algorithm.",
+    "fileName": "process-scheduling-notes.pdf",
+    "dueDate": "2026-10-30",
+    "uploadedAt": "2026-10-14",
+    "uploadedBy": "Admin",
+    "submissions": []
+  },
+  {
+    "id": "as-4",
+    "title": "DBMS — Normalization Worksheet",
+    "subject": "DBMS",
+    "section": "All",
+    "branch": "DS",
+    "description": "Normalize the given tables up to 3NF. Show each normal form step with functional dependencies.",
+    "fileName": "normalization-worksheet.pdf",
+    "dueDate": "2026-10-26",
+    "uploadedAt": "2026-10-15",
+    "uploadedBy": "Admin",
+    "submissions": []
+  },
+  {
+    "id": "as-5",
+    "title": "Data Structures — Sorting Algorithms Lab",
+    "subject": "Data Structures",
+    "section": "All",
+    "branch": "IT",
+    "description": "Implement bubble sort, quick sort and merge sort. Include time-complexity analysis in the PDF report.",
+    "fileName": "sorting-algorithms-lab.pdf",
+    "dueDate": "2026-10-27",
+    "uploadedAt": "2026-10-16",
+    "uploadedBy": "Admin",
+    "submissions": []
+  },
+  {
+    "id": "as-6",
+    "title": "Operating Systems — Deadlock Case Study",
+    "subject": "Operating Systems",
+    "section": "All",
+    "branch": "AIML",
+    "description": "Present a case study on deadlock detection and recovery with a real-world example.",
+    "fileName": "deadlock-case-study.pdf",
+    "dueDate": "2026-10-29",
+    "uploadedAt": "2026-10-17",
+    "uploadedBy": "Admin",
+    "submissions": []
+  }
+]
